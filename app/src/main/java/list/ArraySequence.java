@@ -3,6 +3,7 @@ package list;
 /**
  * This class implements Arraylist using position.
  * @param <E>
+ * @author Yeabsira Bizualem 
  */
 public class ArraySequence<E> implements Sequence<E> {
     private final ArrayBackedList<SequenceNode<E>> items;
