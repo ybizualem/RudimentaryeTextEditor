@@ -251,7 +251,6 @@ public class ArraySequence<E> implements Sequence<E> {
             throw new IndexOutOfBoundsException("Index out of bound");
         }
         SequenceNode<E> prev = items.set(index,new SequenceNode<>(element));
-      //  items.set(index,new SequenceNode<>(element));
         return prev.getElement();
     }
 
