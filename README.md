@@ -1,5 +1,5 @@
 # RudimentaryeTextEditor
-This project was omplemented in three phases
+This project was Implemented in three phases
 The MyTextEditor project is a Java-based text editor implementation designed for efficient manipulation of lines of text. This project follows a phased approach, providing a structured development process.
 
 Features
